@@ -19,7 +19,7 @@ import caesar
 import cgi
 
 def build_page(textarea_content):
-    rot_label = "<label>Rotate by:</labe>"
+    rot_label = "<label>Rotate by:</label>"
     rotation_input = "<input type='number' name='user_number' />"
 
     text_label = "<label>Type a message</label>"
